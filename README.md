@@ -4,6 +4,8 @@
 
 ##### 🔧 Tecnologias utilizadas: HTML, CSS, JavaScript.
  
-##### 👉 Confira aqui: https://siteada--beamartins.repl.co/
+##### 👉 Confira aqui: <a href= https://siteada--beamartins.repl.com> Site Ada Lovelace  </a>
+
+<img src= https://i.imgur.com/LQgiqkk.png; heigth=50%; width=50%;> 
 
 
